@@ -1,0 +1,11 @@
+D:\Greenwich\DataStructure\Lab-Queue\Lab-Queue\bin\Debug\netcoreapp2.1\Lab-Queue.deps.json
+D:\Greenwich\DataStructure\Lab-Queue\Lab-Queue\bin\Debug\netcoreapp2.1\Lab-Queue.runtimeconfig.json
+D:\Greenwich\DataStructure\Lab-Queue\Lab-Queue\bin\Debug\netcoreapp2.1\Lab-Queue.runtimeconfig.dev.json
+D:\Greenwich\DataStructure\Lab-Queue\Lab-Queue\bin\Debug\netcoreapp2.1\Lab-Queue.dll
+D:\Greenwich\DataStructure\Lab-Queue\Lab-Queue\bin\Debug\netcoreapp2.1\Lab-Queue.pdb
+D:\Greenwich\DataStructure\Lab-Queue\Lab-Queue\obj\Debug\netcoreapp2.1\Lab-Queue.csprojAssemblyReference.cache
+D:\Greenwich\DataStructure\Lab-Queue\Lab-Queue\obj\Debug\netcoreapp2.1\Lab-Queue.csproj.CoreCompileInputs.cache
+D:\Greenwich\DataStructure\Lab-Queue\Lab-Queue\obj\Debug\netcoreapp2.1\Lab-Queue.AssemblyInfoInputs.cache
+D:\Greenwich\DataStructure\Lab-Queue\Lab-Queue\obj\Debug\netcoreapp2.1\Lab-Queue.AssemblyInfo.cs
+D:\Greenwich\DataStructure\Lab-Queue\Lab-Queue\obj\Debug\netcoreapp2.1\Lab-Queue.dll
+D:\Greenwich\DataStructure\Lab-Queue\Lab-Queue\obj\Debug\netcoreapp2.1\Lab-Queue.pdb

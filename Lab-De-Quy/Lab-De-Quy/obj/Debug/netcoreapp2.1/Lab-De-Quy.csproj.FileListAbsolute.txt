@@ -1,0 +1,11 @@
+D:\Greenwich\DataStructure\Lab-De-Quy\Lab-De-Quy\bin\Debug\netcoreapp2.1\Lab-De-Quy.deps.json
+D:\Greenwich\DataStructure\Lab-De-Quy\Lab-De-Quy\bin\Debug\netcoreapp2.1\Lab-De-Quy.runtimeconfig.json
+D:\Greenwich\DataStructure\Lab-De-Quy\Lab-De-Quy\bin\Debug\netcoreapp2.1\Lab-De-Quy.runtimeconfig.dev.json
+D:\Greenwich\DataStructure\Lab-De-Quy\Lab-De-Quy\bin\Debug\netcoreapp2.1\Lab-De-Quy.dll
+D:\Greenwich\DataStructure\Lab-De-Quy\Lab-De-Quy\bin\Debug\netcoreapp2.1\Lab-De-Quy.pdb
+D:\Greenwich\DataStructure\Lab-De-Quy\Lab-De-Quy\obj\Debug\netcoreapp2.1\Lab-De-Quy.csprojAssemblyReference.cache
+D:\Greenwich\DataStructure\Lab-De-Quy\Lab-De-Quy\obj\Debug\netcoreapp2.1\Lab-De-Quy.csproj.CoreCompileInputs.cache
+D:\Greenwich\DataStructure\Lab-De-Quy\Lab-De-Quy\obj\Debug\netcoreapp2.1\Lab-De-Quy.AssemblyInfoInputs.cache
+D:\Greenwich\DataStructure\Lab-De-Quy\Lab-De-Quy\obj\Debug\netcoreapp2.1\Lab-De-Quy.AssemblyInfo.cs
+D:\Greenwich\DataStructure\Lab-De-Quy\Lab-De-Quy\obj\Debug\netcoreapp2.1\Lab-De-Quy.dll
+D:\Greenwich\DataStructure\Lab-De-Quy\Lab-De-Quy\obj\Debug\netcoreapp2.1\Lab-De-Quy.pdb

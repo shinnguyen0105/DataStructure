@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <RootNamespace>example_ADT_Datastructure</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="D:\Greenwich\DataStructure\lab1.cs" Link="lab1.cs" />
+  </ItemGroup>
+
+</Project>

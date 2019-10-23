@@ -1,0 +1,17 @@
+C:\Users\Shin Nguyen\source\repos\example ADT Datastructure\example ADT Datastructure\bin\Debug\netcoreapp2.1\example ADT Datastructure.deps.json
+C:\Users\Shin Nguyen\source\repos\example ADT Datastructure\example ADT Datastructure\bin\Debug\netcoreapp2.1\example ADT Datastructure.runtimeconfig.json
+C:\Users\Shin Nguyen\source\repos\example ADT Datastructure\example ADT Datastructure\bin\Debug\netcoreapp2.1\example ADT Datastructure.runtimeconfig.dev.json
+C:\Users\Shin Nguyen\source\repos\example ADT Datastructure\example ADT Datastructure\bin\Debug\netcoreapp2.1\example ADT Datastructure.dll
+C:\Users\Shin Nguyen\source\repos\example ADT Datastructure\example ADT Datastructure\bin\Debug\netcoreapp2.1\example ADT Datastructure.pdb
+C:\Users\Shin Nguyen\source\repos\example ADT Datastructure\example ADT Datastructure\obj\Debug\netcoreapp2.1\example ADT Datastructure.csprojAssemblyReference.cache
+C:\Users\Shin Nguyen\source\repos\example ADT Datastructure\example ADT Datastructure\obj\Debug\netcoreapp2.1\example ADT Datastructure.csproj.CoreCompileInputs.cache
+C:\Users\Shin Nguyen\source\repos\example ADT Datastructure\example ADT Datastructure\obj\Debug\netcoreapp2.1\example ADT Datastructure.AssemblyInfoInputs.cache
+C:\Users\Shin Nguyen\source\repos\example ADT Datastructure\example ADT Datastructure\obj\Debug\netcoreapp2.1\example ADT Datastructure.AssemblyInfo.cs
+C:\Users\Shin Nguyen\source\repos\example ADT Datastructure\example ADT Datastructure\obj\Debug\netcoreapp2.1\example ADT Datastructure.dll
+C:\Users\Shin Nguyen\source\repos\example ADT Datastructure\example ADT Datastructure\obj\Debug\netcoreapp2.1\example ADT Datastructure.pdb
+D:\Greenwich\DataStructure\example ADT Datastructure\example ADT Datastructure\obj\Debug\netcoreapp2.1\example ADT Datastructure.csprojAssemblyReference.cache
+D:\Greenwich\DataStructure\example ADT Datastructure\example ADT Datastructure\obj\Debug\netcoreapp2.1\example ADT Datastructure.csproj.CoreCompileInputs.cache
+D:\Greenwich\DataStructure\example ADT Datastructure\example ADT Datastructure\obj\Debug\netcoreapp2.1\example ADT Datastructure.AssemblyInfoInputs.cache
+D:\Greenwich\DataStructure\example ADT Datastructure\example ADT Datastructure\obj\Debug\netcoreapp2.1\example ADT Datastructure.AssemblyInfo.cs
+D:\Greenwich\DataStructure\example ADT Datastructure\example ADT Datastructure\obj\Debug\netcoreapp2.1\example ADT Datastructure.dll
+D:\Greenwich\DataStructure\example ADT Datastructure\example ADT Datastructure\obj\Debug\netcoreapp2.1\example ADT Datastructure.pdb

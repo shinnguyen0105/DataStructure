@@ -1,0 +1,11 @@
+D:\Greenwich\DataStructure\Lab-Sort\Lab-Sort\bin\Debug\netcoreapp2.1\Lab-Sort.deps.json
+D:\Greenwich\DataStructure\Lab-Sort\Lab-Sort\bin\Debug\netcoreapp2.1\Lab-Sort.runtimeconfig.json
+D:\Greenwich\DataStructure\Lab-Sort\Lab-Sort\bin\Debug\netcoreapp2.1\Lab-Sort.runtimeconfig.dev.json
+D:\Greenwich\DataStructure\Lab-Sort\Lab-Sort\bin\Debug\netcoreapp2.1\Lab-Sort.dll
+D:\Greenwich\DataStructure\Lab-Sort\Lab-Sort\bin\Debug\netcoreapp2.1\Lab-Sort.pdb
+D:\Greenwich\DataStructure\Lab-Sort\Lab-Sort\obj\Debug\netcoreapp2.1\Lab-Sort.csprojAssemblyReference.cache
+D:\Greenwich\DataStructure\Lab-Sort\Lab-Sort\obj\Debug\netcoreapp2.1\Lab-Sort.csproj.CoreCompileInputs.cache
+D:\Greenwich\DataStructure\Lab-Sort\Lab-Sort\obj\Debug\netcoreapp2.1\Lab-Sort.AssemblyInfoInputs.cache
+D:\Greenwich\DataStructure\Lab-Sort\Lab-Sort\obj\Debug\netcoreapp2.1\Lab-Sort.AssemblyInfo.cs
+D:\Greenwich\DataStructure\Lab-Sort\Lab-Sort\obj\Debug\netcoreapp2.1\Lab-Sort.dll
+D:\Greenwich\DataStructure\Lab-Sort\Lab-Sort\obj\Debug\netcoreapp2.1\Lab-Sort.pdb

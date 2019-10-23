@@ -1,0 +1,11 @@
+D:\Greenwich\DataStructure\LAB2\LAB2\bin\Debug\netcoreapp2.1\LAB2.deps.json
+D:\Greenwich\DataStructure\LAB2\LAB2\bin\Debug\netcoreapp2.1\LAB2.runtimeconfig.json
+D:\Greenwich\DataStructure\LAB2\LAB2\bin\Debug\netcoreapp2.1\LAB2.runtimeconfig.dev.json
+D:\Greenwich\DataStructure\LAB2\LAB2\bin\Debug\netcoreapp2.1\LAB2.dll
+D:\Greenwich\DataStructure\LAB2\LAB2\bin\Debug\netcoreapp2.1\LAB2.pdb
+D:\Greenwich\DataStructure\LAB2\LAB2\obj\Debug\netcoreapp2.1\LAB2.csprojAssemblyReference.cache
+D:\Greenwich\DataStructure\LAB2\LAB2\obj\Debug\netcoreapp2.1\LAB2.csproj.CoreCompileInputs.cache
+D:\Greenwich\DataStructure\LAB2\LAB2\obj\Debug\netcoreapp2.1\LAB2.AssemblyInfoInputs.cache
+D:\Greenwich\DataStructure\LAB2\LAB2\obj\Debug\netcoreapp2.1\LAB2.AssemblyInfo.cs
+D:\Greenwich\DataStructure\LAB2\LAB2\obj\Debug\netcoreapp2.1\LAB2.dll
+D:\Greenwich\DataStructure\LAB2\LAB2\obj\Debug\netcoreapp2.1\LAB2.pdb

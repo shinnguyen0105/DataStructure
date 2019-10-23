@@ -1,0 +1,11 @@
+D:\Greenwich\DataStructure\Lab-SBT-NhiPhan\Lab-SBT-NhiPhan\bin\Debug\netcoreapp2.1\Lab-SBT-NhiPhan.deps.json
+D:\Greenwich\DataStructure\Lab-SBT-NhiPhan\Lab-SBT-NhiPhan\bin\Debug\netcoreapp2.1\Lab-SBT-NhiPhan.runtimeconfig.json
+D:\Greenwich\DataStructure\Lab-SBT-NhiPhan\Lab-SBT-NhiPhan\bin\Debug\netcoreapp2.1\Lab-SBT-NhiPhan.runtimeconfig.dev.json
+D:\Greenwich\DataStructure\Lab-SBT-NhiPhan\Lab-SBT-NhiPhan\bin\Debug\netcoreapp2.1\Lab-SBT-NhiPhan.dll
+D:\Greenwich\DataStructure\Lab-SBT-NhiPhan\Lab-SBT-NhiPhan\bin\Debug\netcoreapp2.1\Lab-SBT-NhiPhan.pdb
+D:\Greenwich\DataStructure\Lab-SBT-NhiPhan\Lab-SBT-NhiPhan\obj\Debug\netcoreapp2.1\Lab-SBT-NhiPhan.csprojAssemblyReference.cache
+D:\Greenwich\DataStructure\Lab-SBT-NhiPhan\Lab-SBT-NhiPhan\obj\Debug\netcoreapp2.1\Lab-SBT-NhiPhan.csproj.CoreCompileInputs.cache
+D:\Greenwich\DataStructure\Lab-SBT-NhiPhan\Lab-SBT-NhiPhan\obj\Debug\netcoreapp2.1\Lab-SBT-NhiPhan.AssemblyInfoInputs.cache
+D:\Greenwich\DataStructure\Lab-SBT-NhiPhan\Lab-SBT-NhiPhan\obj\Debug\netcoreapp2.1\Lab-SBT-NhiPhan.AssemblyInfo.cs
+D:\Greenwich\DataStructure\Lab-SBT-NhiPhan\Lab-SBT-NhiPhan\obj\Debug\netcoreapp2.1\Lab-SBT-NhiPhan.dll
+D:\Greenwich\DataStructure\Lab-SBT-NhiPhan\Lab-SBT-NhiPhan\obj\Debug\netcoreapp2.1\Lab-SBT-NhiPhan.pdb
